@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Desafios")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Which_Number_Missing_Array")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e1e02fe67f3f931287538444d4efbef63a33339")]
-[assembly: System.Reflection.AssemblyProductAttribute("Desafios")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Desafios")]
+[assembly: System.Reflection.AssemblyProductAttribute("Which_Number_Missing_Array")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Which_Number_Missing_Array")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
