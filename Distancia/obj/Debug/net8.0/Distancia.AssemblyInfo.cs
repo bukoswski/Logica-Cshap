@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Distancia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e1e02fe67f3f931287538444d4efbef63a33339")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd5c21dee6346ba27c4327af1e0b54894cead101")]
 [assembly: System.Reflection.AssemblyProductAttribute("Distancia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Distancia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
