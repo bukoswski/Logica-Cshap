@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Distancia")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Modificador_Private")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bbad0e4e1bf64b3b498186c255099c08ebe44d25")]
-[assembly: System.Reflection.AssemblyProductAttribute("Distancia")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Distancia")]
+[assembly: System.Reflection.AssemblyProductAttribute("Modificador_Private")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Modificador_Private")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
