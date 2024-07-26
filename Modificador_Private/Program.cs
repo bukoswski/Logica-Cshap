@@ -25,7 +25,7 @@ namespace Modificador_Private
         
         { 
             get{return _email;} 
-        
+            
             set{_email = value;} 
         
         }
