@@ -22,7 +22,9 @@ namespace Modificador_Private
         //mesma coisa do Name
         private string _email;
         public string Email
+
         
+
         { 
             get{return _email;} 
             

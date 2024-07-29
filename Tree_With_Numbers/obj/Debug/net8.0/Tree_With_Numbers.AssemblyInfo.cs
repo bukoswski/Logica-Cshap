@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Soma")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Tree_With_Numbers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e97c7156d94b77d058cc530ac6d439ae3d803550")]
-[assembly: System.Reflection.AssemblyProductAttribute("Soma")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Soma")]
+[assembly: System.Reflection.AssemblyProductAttribute("Tree_With_Numbers")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Tree_With_Numbers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
